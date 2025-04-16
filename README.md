@@ -133,18 +133,31 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 ### Agradecimientos Especiales
 
 -**Iván Rodríguez**
+
 -**Lidia Chloe Domínguez**
+
 -**Lorena Sánchez**
+
 -**Fran Mafé**
+
 -**Exinos**
+
 -**A la comunidad de TakeandTake Doblaje, Takeando, DragonDubs, y Dub+**
+
 -**La Voz de Nicki**
+
 -**Aya Voices**
+
 -**A todos los streamers y creadores de contenido que han difundido el proyecto, entre ellos (pero no todos): Sispros, Dani Ultima, SoraKeyBlade, Perita, Roxias, entre otros.**
+
 -**A Clara, por su entrevista en el podcast de Ecos del Corazón.**
+
 -**A Cesar, que a pesar de haber tenido disputas y diferencias creativas irremediables, no se habria llegado a nada de esto sin su ayuda.**
+
 -**A todos los participantes del proyecto.**
+
 -**A todos los que por redes sociales han demostrado su apoyo, a pesar de las adversidades acaecidas.**
--**Y finalmente, a todas aquellas personas que intentaron boicotearnos con mensajes de odio, faltas de respeto y bulos sin fundamento.**
+
+-**Y finalmente, a todas aquellas personas que intentaron boicotearnos con mensajes de odio, faltas de respeto y bulos sin fundamento que tambien han servido de motivación.**
 
 **¡Gracias!**
