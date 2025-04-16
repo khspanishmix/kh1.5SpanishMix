@@ -164,4 +164,4 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ### Copyright
 
-**No tenemos ninguna afiliación con la marca Kingdom Hearts. Square Enix y Disney tienen el derecho de tomar medidas contra el proyecto si asi lo consideran oportuno.**
+No tenemos ninguna afiliación con la marca Kingdom Hearts. Square Enix y Disney tienen el derecho de tomar medidas contra el proyecto si asi lo consideran oportuno.
