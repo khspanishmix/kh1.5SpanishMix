@@ -40,7 +40,7 @@
 
 1. Abre `OpenKh.Tools.ModsManager.exe`. Puedes descargarlo desde [aquí](https://github.com/OpenKH/OpenKh/releases/download/latest/openkh.zip).
 2. Si es la primera vez que lo usas, configúralo para que detecte tu instalación del juego, asegúrate de que tenga Panacea instalado, Lua Backend instalado y configurado, y que *Kingdom Hearts* esté extraído.
-3. Ve a `Mods -> Install a new mod` y escribe lo siguiente: `Yokimitsuro/KHFMSpanish`.
+3. Ve a `Mods -> Install a new mod` y pega lo siguiente: `khspanishmix/kh1.5SpanishMix`.
 4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
 5. ¡Disfruta!
 
@@ -60,7 +60,7 @@
 - [**Canciones en Inglés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_EN.zip)  
 - [**Canciones en Japonés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_JP.zip)  
 
-Descomprime este archivo ZIP en la carpeta de instalación del juego:
+Descomprime el archivo ZIP de tu elección en la carpeta de instalación del juego:
 
 - **Steam:** `KINGDOM HEARTS -HD 1.5+2.5 ReMIX-\STEAM\dt\`
 - **Epic Games:** `KH_1.5_2.5\EPIC\en\`
@@ -76,48 +76,59 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 ### 🎬​ Dirección | Programación | Edición
 
 - **Dirección:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
-- **Programación y Edición:** [Yokimitsuro](https://x.com/Yokimitsuro)
+- **Programación** [Yokimitsuro](https://x.com/Yokimitsuro)
+- **Edición** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
 
 ### 🎨 Arte
 - **Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
+
+### Redes sociales
+-Twitter: [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
+-Instagram y Youtube: [AilnnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
   
 ### 🎙️ Actores de doblaje
 
 - **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/)
-- **Goofy:** [Sedka](https://www.instagram.com/sedka_/?hl=es)
-- **Donald:** [Yakko](#)
 - **Riku:** [Mikel Sanchez](https://www.instagram.com/grixmistery/)
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
+  
+- **Mickey, Piglet, Leon:** [Minerva](https://www.youtube.com/@FENIXDUBS)
+- **Goofy:** [Sedka](https://www.instagram.com/sedka_/?hl=es)
+- **Donald:** [Yakko](https://www.instagram.com/yakkofandubs1/)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 - **Selphie/R.Corazones:** [Gini-Gini](https://x.com/_GiniGini_)
-- **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6)
+- **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
+- **Yuffie:** [AilinnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
+- **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
+- **Sephiroth:** [Sergio Dubs)(https://www.instagram.com/sergio_dubs/)
+
+- **Madre de Sora, Maléfica:** [Nuria López](https://www.instagram.com/airun.locucionydoblaje?igsh=NXl2cmpvbGtiNjIz)
+- **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
+- **Clayton:** [Angel Piñero (Gelote30)](https://www.instagram.com/gelote30?igsh=MTVnZmRtaXdoM3NmNg==)
 - **Garfio:** [Sasu](https://www.instagram.com/sasukudubs/)
 - **Jetsam, Hades, Finklstn:** [Santiago Rivas (Diane)](https://www.instagram.com/santiagorivaslocutor/)
-- **Madre de sora, Maléfica:** [Nuria López](https://www.instagram.com/airun.locucionydoblaje?igsh=NXl2cmpvbGtiNjIz)
-- **Floatsam:** [Borja Hernández Gil](https://www.instagram.com/dobla_bor?igsh=ejM0OHdiZGk3djJw)
-- **Hercules:** [Adri](https://x.com/adriiiits)
-- **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 - **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
+- **Floatsam:** [Borja Hernández Gil](https://www.instagram.com/dobla_bor?igsh=ejM0OHdiZGk3djJw)
 - **Ansem:** [Carlos Garrido (MantequiTV)](https://www.instagram.com/carlosgarrido.doblaje/)
+
+- **Hercules:** [Adri](https://x.com/adriiiits)
 - **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
 - **Alicia, Barrel:** [Cati Ramis](https://www.instagram.com/artby.cati)
 - **Pinocho, Lock:** [Evama](https://www.youtube.com/@Evama2.0)
 - **Mushu:** [Eloi Ortega](https://www.instagram.com/lexioltg/)
-- **Mickey, Piglet, Leon:** [Minerva](https://www.youtube.com/@FENIXDUBS)
 - **Wendy, Jasmin:** [Udi Angulo](https://www.instagram.com/cl4.udi.4?igsh=MWxtdzdhZDN0cGc5ag==)
 - **Jack Skellington:** [Pedro Durán](https://www.tiktok.com/@pedroduranvoz?_t=ZN-8u9n7Sm8OwM&_r=1)
 - **Gepeto:** [Sergio Izaguirre](https://www.youtube.com/channel/UC4eZKlYzTuBGCbCq_JlT-2w)
 - **Pepito, Iago:** [LeM](https://www.tiktok.com/@manuelmc555?_t=ZN-8u9p3LjLy1W&_r=1)
 - **Shock:** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
-- **Tiger, Sebastian:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
+- **Sebastian:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
 - **Tarzan, Oogie, Phil:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
 - **Jane, Tidus:** [Marta Delgado Larios](https://www.youtube.com/@martadubs)
 - **Daisy, Sally:** [Julia Gallego](https://www.instagram.com/juliagallegovoz?igsh=YW1yMDg3OHNydW8y&utm_source=qr)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
-- **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
-- **Clayton:** [Angel Piñero (Gelote30)](https://www.instagram.com/gelote30?igsh=MTVnZmRtaXdoM3NmNg==)
 - **Triton:** [Adri Rodríguez (adridibus)](https://www.instagram.com/adridibus_dub/)
+- **Tiger:** [Asancu](https://www.youtube.com/@Asancu)
 
 ### Música
 
@@ -130,38 +141,6 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 - [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
 
-### Agradecimientos Especiales
-
--Iván Rodríguez
-
--Lidia Chloe Domínguez
-
--Lorena Sánchez
-
--Fran Mafé
-
--Exinos
-
--A la comunidad de TakeandTake Doblaje, Takeando, DragonDubs, y Dub+
-
--La Voz de Nicki
-
--Aya Voices
-
--A todos los streamers y creadores de contenido que han difundido el proyecto, entre ellos (pero no todos): Sispros, Dani Ultima, SoraKeyBlade, Perita, y Roxias.
-
--A Clara, por su entrevista en el podcast de Ecos del Corazón.
-
--A Cesar, que a pesar de haber tenido disputas y diferencias creativas irremediables, no se habria llegado a nada de esto sin su ayuda.
-
--A todos los participantes del proyecto.
-
--A todos los que por redes sociales han demostrado su apoyo, a pesar de las adversidades acaecidas.
-
--Y finalmente, a todas aquellas personas que intentaron boicotearnos con mensajes de odio, faltas de respeto y bulos sin fundamento que tambien han servido de motivación.
-
-**¡Gracias!**
-
 ### Copyright
 
-No tenemos ninguna afiliación con la marca Kingdom Hearts. Square Enix y Disney tienen el derecho de tomar medidas contra el proyecto si asi lo consideran oportuno.
+No tenemos ninguna afiliación con la marca Kingdom Hearts. Todos los derechos reservados a Disney y Square Enix.
