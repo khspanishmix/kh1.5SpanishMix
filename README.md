@@ -84,7 +84,10 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ### Redes sociales
 -Twitter: [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
+
 -Instagram y Youtube: [AilnnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
+
+-TikTok: [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
   
 ### 🎙️ Actores de doblaje
 
