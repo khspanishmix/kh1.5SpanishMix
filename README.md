@@ -76,8 +76,8 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 ### 🎬​ Dirección | Programación | Edición
 
 - **Dirección:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
-- **Programación** [Yokimitsuro](https://x.com/Yokimitsuro)
-- **Edición** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
+- **Programación:** [Yokimitsuro](https://x.com/Yokimitsuro)
+- **Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
 
 ### 🎨 Arte
 - **Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
