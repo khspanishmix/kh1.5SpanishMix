@@ -97,11 +97,11 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Donald:** [Yakko](https://www.instagram.com/yakkofandubs1/)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 - **Selphie/R.Corazones:** [Gini-Gini](https://x.com/_GiniGini_)
-- **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6
+- **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6)
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
 - **Yuffie:** [AilinnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
 - **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
-- **Sephiroth:** [Sergio Dubs)(https://www.instagram.com/sergio_dubs/)
+- **Sephiroth:** [Sergio Dubs](https://www.instagram.com/sergio_dubs/)
 
 - **Madre de Sora, Maléfica:** [Nuria López](https://www.instagram.com/airun.locucionydoblaje?igsh=NXl2cmpvbGtiNjIz)
 - **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
