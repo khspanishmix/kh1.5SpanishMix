@@ -14,6 +14,9 @@ assets:
   package: kh1_first
   source:
   - name: remastered/title/title.img/-131.dds
+
+#Subtitulos Islas Destino
+
 - name: remastered/di01.ard/SP_di01_ard3e8.binl
   method: copy
   source:
@@ -190,6 +193,9 @@ assets:
   method: copy
   source:
   - name: remastered/dc09.ard/SP_dc09_ard3e8.binl
+
+#Subtitulos Ciudad de Paso
+
 - name: remastered/tw01.ard/SP_tw01_ard3e8.binl
   method: copy
   source:
@@ -218,34 +224,34 @@ assets:
   method: copy
   source:
   - name: remastered/tw01.ard/SP_tw01_ard3f5.binl
-- name: remastered/tw02.ard/SP_tw02_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3e8.binl
-- name: remastered/tw02.ard/SP_tw02_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3eb.binl
-- name: remastered/tw02.ard/SP_tw02_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3ec.binl
-- name: remastered/tw02.ard/SP_tw02_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3f4.binl
-- name: remastered/tw02.ard/SP_tw02_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3ea.binl
-- name: remastered/tw02.ard/SP_tw02_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3ed.binl
-- name: remastered/tw02.ard/SP_tw02_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw02.ard/SP_tw02_ard3f5.binl
+# - name: remastered/tw02.ard/SP_tw02_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw02.ard/SP_tw02_ard3e8.binl
+# - name: remastered/tw02.ard/SP_tw02_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw02.ard/SP_tw02_ard3eb.binl
+# - name: remastered/tw02.ard/SP_tw02_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw02.ard/SP_tw02_ard3ec.binl
+# - name: remastered/tw02.ard/SP_tw02_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw02.ard/SP_tw02_ard3f4.binl
+# - name: remastered/tw02.ard/SP_tw02_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw02.ard/SP_tw02_ard3ea.binl
+# - name: remastered/tw02.ard/SP_tw02_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw02.ard/SP_tw02_ard3ed.binl
+# - name: remastered/tw02.ard/SP_tw02_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw02.ard/SP_tw02_ard3f5.binl
 - name: remastered/tw03.ard/SP_tw03_ard3e8.binl
   method: copy
   source:
@@ -414,286 +420,286 @@ assets:
   method: copy
   source:
   - name: remastered/tw08.ard/SP_tw08_ard3f5.binl
-- name: remastered/tw09.ard/SP_tw09_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw09.ard/SP_tw09_ard3e8.binl
-- name: remastered/tw09.ard/SP_tw09_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw09.ard/SP_tw09_ard3eb.binl
-- name: remastered/tw09.ard/SP_tw09_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw09.ard/SP_tw09_ard3ec.binl
-- name: remastered/tw09.ard/SP_tw09_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw09.ard/SP_tw09_ard3f4.binl
-- name: remastered/tw09.ard/SP_tw09_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw09.ard/SP_tw09_ard3ea.binl
-- name: remastered/tw09.ard/SP_tw09_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw09.ard/SP_tw09_ard3ed.binl
-- name: remastered/tw09.ard/SP_tw09_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw09.ard/SP_tw09_ard3f5.binl
-- name: remastered/tw10.ard/SP_tw10_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw10.ard/SP_tw10_ard3e8.binl
-- name: remastered/tw10.ard/SP_tw10_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw10.ard/SP_tw10_ard3eb.binl
-- name: remastered/tw10.ard/SP_tw10_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw10.ard/SP_tw10_ard3ec.binl
-- name: remastered/tw10.ard/SP_tw10_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw10.ard/SP_tw10_ard3f4.binl
-- name: remastered/tw10.ard/SP_tw10_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw10.ard/SP_tw10_ard3ea.binl
-- name: remastered/tw10.ard/SP_tw10_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw10.ard/SP_tw10_ard3ed.binl
-- name: remastered/tw10.ard/SP_tw10_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw10.ard/SP_tw10_ard3f5.binl
-- name: remastered/tw11.ard/SP_tw11_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw11.ard/SP_tw11_ard3e8.binl
-- name: remastered/tw11.ard/SP_tw11_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw11.ard/SP_tw11_ard3eb.binl
-- name: remastered/tw11.ard/SP_tw11_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw11.ard/SP_tw11_ard3ec.binl
-- name: remastered/tw11.ard/SP_tw11_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw11.ard/SP_tw11_ard3f4.binl
-- name: remastered/tw11.ard/SP_tw11_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw11.ard/SP_tw11_ard3ea.binl
-- name: remastered/tw11.ard/SP_tw11_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw11.ard/SP_tw11_ard3ed.binl
-- name: remastered/tw11.ard/SP_tw11_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw11.ard/SP_tw11_ard3f5.binl
-- name: remastered/tw12.ard/SP_tw12_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw12.ard/SP_tw12_ard3e8.binl
-- name: remastered/tw12.ard/SP_tw12_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw12.ard/SP_tw12_ard3eb.binl
-- name: remastered/tw12.ard/SP_tw12_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw12.ard/SP_tw12_ard3ec.binl
-- name: remastered/tw12.ard/SP_tw12_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw12.ard/SP_tw12_ard3f4.binl
-- name: remastered/tw12.ard/SP_tw12_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw12.ard/SP_tw12_ard3ea.binl
-- name: remastered/tw12.ard/SP_tw12_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw12.ard/SP_tw12_ard3ed.binl
-- name: remastered/tw12.ard/SP_tw12_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw12.ard/SP_tw12_ard3f5.binl
-- name: remastered/tw13.ard/SP_tw13_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw13.ard/SP_tw13_ard3e8.binl
-- name: remastered/tw13.ard/SP_tw13_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw13.ard/SP_tw13_ard3eb.binl
-- name: remastered/tw13.ard/SP_tw13_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw13.ard/SP_tw13_ard3ec.binl
-- name: remastered/tw13.ard/SP_tw13_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw13.ard/SP_tw13_ard3f4.binl
-- name: remastered/tw13.ard/SP_tw13_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw13.ard/SP_tw13_ard3ea.binl
-- name: remastered/tw13.ard/SP_tw13_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw13.ard/SP_tw13_ard3ed.binl
-- name: remastered/tw13.ard/SP_tw13_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw13.ard/SP_tw13_ard3f5.binl
-- name: remastered/tw14.ard/SP_tw14_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw14.ard/SP_tw14_ard3e8.binl
-- name: remastered/tw14.ard/SP_tw14_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw14.ard/SP_tw14_ard3eb.binl
-- name: remastered/tw14.ard/SP_tw14_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw14.ard/SP_tw14_ard3ec.binl
-- name: remastered/tw14.ard/SP_tw14_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw14.ard/SP_tw14_ard3f4.binl
-- name: remastered/tw14.ard/SP_tw14_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw14.ard/SP_tw14_ard3ea.binl
-- name: remastered/tw14.ard/SP_tw14_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw14.ard/SP_tw14_ard3ed.binl
-- name: remastered/tw14.ard/SP_tw14_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw14.ard/SP_tw14_ard3f5.binl
-- name: remastered/tw15.ard/SP_tw15_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw15.ard/SP_tw15_ard3e8.binl
-- name: remastered/tw15.ard/SP_tw15_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw15.ard/SP_tw15_ard3eb.binl
-- name: remastered/tw15.ard/SP_tw15_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw15.ard/SP_tw15_ard3ec.binl
-- name: remastered/tw15.ard/SP_tw15_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw15.ard/SP_tw15_ard3f4.binl
-- name: remastered/tw15.ard/SP_tw15_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw15.ard/SP_tw15_ard3ea.binl
-- name: remastered/tw15.ard/SP_tw15_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw15.ard/SP_tw15_ard3ed.binl
-- name: remastered/tw15.ard/SP_tw15_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw15.ard/SP_tw15_ard3f5.binl
-- name: remastered/tw16.ard/SP_tw16_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw16.ard/SP_tw16_ard3e8.binl
-- name: remastered/tw16.ard/SP_tw16_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw16.ard/SP_tw16_ard3eb.binl
-- name: remastered/tw16.ard/SP_tw16_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw16.ard/SP_tw16_ard3ec.binl
-- name: remastered/tw16.ard/SP_tw16_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw16.ard/SP_tw16_ard3f4.binl
-- name: remastered/tw16.ard/SP_tw16_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw16.ard/SP_tw16_ard3ea.binl
-- name: remastered/tw16.ard/SP_tw16_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw16.ard/SP_tw16_ard3ed.binl
-- name: remastered/tw16.ard/SP_tw16_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw16.ard/SP_tw16_ard3f5.binl
-- name: remastered/tw17.ard/SP_tw17_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw17.ard/SP_tw17_ard3e8.binl
-- name: remastered/tw17.ard/SP_tw17_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw17.ard/SP_tw17_ard3eb.binl
-- name: remastered/tw17.ard/SP_tw17_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw17.ard/SP_tw17_ard3ec.binl
-- name: remastered/tw17.ard/SP_tw17_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw17.ard/SP_tw17_ard3f4.binl
-- name: remastered/tw17.ard/SP_tw17_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw17.ard/SP_tw17_ard3ea.binl
-- name: remastered/tw17.ard/SP_tw17_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw17.ard/SP_tw17_ard3ed.binl
-- name: remastered/tw17.ard/SP_tw17_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw17.ard/SP_tw17_ard3f5.binl
-- name: remastered/tw18.ard/SP_tw18_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3e8.binl
-- name: remastered/tw18.ard/SP_tw18_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3eb.binl
-- name: remastered/tw18.ard/SP_tw18_ard3ec.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3ec.binl
-- name: remastered/tw18.ard/SP_tw18_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3f4.binl
-- name: remastered/tw18.ard/SP_tw18_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3ea.binl
-- name: remastered/tw18.ard/SP_tw18_ard3ed.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3ed.binl
-- name: remastered/tw18.ard/SP_tw18_ard3f5.binl
-  method: copy
-  source:
-  - name: remastered/tw18.ard/SP_tw18_ard3f5.binl
+# - name: remastered/tw09.ard/SP_tw09_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw09.ard/SP_tw09_ard3e8.binl
+# - name: remastered/tw09.ard/SP_tw09_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw09.ard/SP_tw09_ard3eb.binl
+# - name: remastered/tw09.ard/SP_tw09_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw09.ard/SP_tw09_ard3ec.binl
+# - name: remastered/tw09.ard/SP_tw09_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw09.ard/SP_tw09_ard3f4.binl
+# - name: remastered/tw09.ard/SP_tw09_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw09.ard/SP_tw09_ard3ea.binl
+# - name: remastered/tw09.ard/SP_tw09_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw09.ard/SP_tw09_ard3ed.binl
+# - name: remastered/tw09.ard/SP_tw09_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw09.ard/SP_tw09_ard3f5.binl
+# - name: remastered/tw10.ard/SP_tw10_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw10.ard/SP_tw10_ard3e8.binl
+# - name: remastered/tw10.ard/SP_tw10_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw10.ard/SP_tw10_ard3eb.binl
+# - name: remastered/tw10.ard/SP_tw10_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw10.ard/SP_tw10_ard3ec.binl
+# - name: remastered/tw10.ard/SP_tw10_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw10.ard/SP_tw10_ard3f4.binl
+# - name: remastered/tw10.ard/SP_tw10_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw10.ard/SP_tw10_ard3ea.binl
+# - name: remastered/tw10.ard/SP_tw10_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw10.ard/SP_tw10_ard3ed.binl
+# - name: remastered/tw10.ard/SP_tw10_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw10.ard/SP_tw10_ard3f5.binl
+# - name: remastered/tw11.ard/SP_tw11_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw11.ard/SP_tw11_ard3e8.binl
+# - name: remastered/tw11.ard/SP_tw11_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw11.ard/SP_tw11_ard3eb.binl
+# - name: remastered/tw11.ard/SP_tw11_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw11.ard/SP_tw11_ard3ec.binl
+# - name: remastered/tw11.ard/SP_tw11_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw11.ard/SP_tw11_ard3f4.binl
+# - name: remastered/tw11.ard/SP_tw11_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw11.ard/SP_tw11_ard3ea.binl
+# - name: remastered/tw11.ard/SP_tw11_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw11.ard/SP_tw11_ard3ed.binl
+# - name: remastered/tw11.ard/SP_tw11_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw11.ard/SP_tw11_ard3f5.binl
+# - name: remastered/tw12.ard/SP_tw12_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw12.ard/SP_tw12_ard3e8.binl
+# - name: remastered/tw12.ard/SP_tw12_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw12.ard/SP_tw12_ard3eb.binl
+# - name: remastered/tw12.ard/SP_tw12_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw12.ard/SP_tw12_ard3ec.binl
+# - name: remastered/tw12.ard/SP_tw12_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw12.ard/SP_tw12_ard3f4.binl
+# - name: remastered/tw12.ard/SP_tw12_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw12.ard/SP_tw12_ard3ea.binl
+# - name: remastered/tw12.ard/SP_tw12_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw12.ard/SP_tw12_ard3ed.binl
+# - name: remastered/tw12.ard/SP_tw12_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw12.ard/SP_tw12_ard3f5.binl
+# - name: remastered/tw13.ard/SP_tw13_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw13.ard/SP_tw13_ard3e8.binl
+# - name: remastered/tw13.ard/SP_tw13_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw13.ard/SP_tw13_ard3eb.binl
+# - name: remastered/tw13.ard/SP_tw13_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw13.ard/SP_tw13_ard3ec.binl
+# - name: remastered/tw13.ard/SP_tw13_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw13.ard/SP_tw13_ard3f4.binl
+# - name: remastered/tw13.ard/SP_tw13_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw13.ard/SP_tw13_ard3ea.binl
+# - name: remastered/tw13.ard/SP_tw13_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw13.ard/SP_tw13_ard3ed.binl
+# - name: remastered/tw13.ard/SP_tw13_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw13.ard/SP_tw13_ard3f5.binl
+# - name: remastered/tw14.ard/SP_tw14_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw14.ard/SP_tw14_ard3e8.binl
+# - name: remastered/tw14.ard/SP_tw14_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw14.ard/SP_tw14_ard3eb.binl
+# - name: remastered/tw14.ard/SP_tw14_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw14.ard/SP_tw14_ard3ec.binl
+# - name: remastered/tw14.ard/SP_tw14_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw14.ard/SP_tw14_ard3f4.binl
+# - name: remastered/tw14.ard/SP_tw14_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw14.ard/SP_tw14_ard3ea.binl
+# - name: remastered/tw14.ard/SP_tw14_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw14.ard/SP_tw14_ard3ed.binl
+# - name: remastered/tw14.ard/SP_tw14_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw14.ard/SP_tw14_ard3f5.binl
+# - name: remastered/tw15.ard/SP_tw15_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw15.ard/SP_tw15_ard3e8.binl
+# - name: remastered/tw15.ard/SP_tw15_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw15.ard/SP_tw15_ard3eb.binl
+# - name: remastered/tw15.ard/SP_tw15_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw15.ard/SP_tw15_ard3ec.binl
+# - name: remastered/tw15.ard/SP_tw15_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw15.ard/SP_tw15_ard3f4.binl
+# - name: remastered/tw15.ard/SP_tw15_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw15.ard/SP_tw15_ard3ea.binl
+# - name: remastered/tw15.ard/SP_tw15_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw15.ard/SP_tw15_ard3ed.binl
+# - name: remastered/tw15.ard/SP_tw15_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw15.ard/SP_tw15_ard3f5.binl
+# - name: remastered/tw16.ard/SP_tw16_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw16.ard/SP_tw16_ard3e8.binl
+# - name: remastered/tw16.ard/SP_tw16_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw16.ard/SP_tw16_ard3eb.binl
+# - name: remastered/tw16.ard/SP_tw16_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw16.ard/SP_tw16_ard3ec.binl
+# - name: remastered/tw16.ard/SP_tw16_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw16.ard/SP_tw16_ard3f4.binl
+# - name: remastered/tw16.ard/SP_tw16_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw16.ard/SP_tw16_ard3ea.binl
+# - name: remastered/tw16.ard/SP_tw16_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw16.ard/SP_tw16_ard3ed.binl
+# - name: remastered/tw16.ard/SP_tw16_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw16.ard/SP_tw16_ard3f5.binl
+# - name: remastered/tw17.ard/SP_tw17_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw17.ard/SP_tw17_ard3e8.binl
+# - name: remastered/tw17.ard/SP_tw17_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw17.ard/SP_tw17_ard3eb.binl
+# - name: remastered/tw17.ard/SP_tw17_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw17.ard/SP_tw17_ard3ec.binl
+# - name: remastered/tw17.ard/SP_tw17_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw17.ard/SP_tw17_ard3f4.binl
+# - name: remastered/tw17.ard/SP_tw17_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw17.ard/SP_tw17_ard3ea.binl
+# - name: remastered/tw17.ard/SP_tw17_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw17.ard/SP_tw17_ard3ed.binl
+# - name: remastered/tw17.ard/SP_tw17_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw17.ard/SP_tw17_ard3f5.binl
+# - name: remastered/tw18.ard/SP_tw18_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw18.ard/SP_tw18_ard3e8.binl
+# - name: remastered/tw18.ard/SP_tw18_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw18.ard/SP_tw18_ard3eb.binl
+# - name: remastered/tw18.ard/SP_tw18_ard3ec.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw18.ard/SP_tw18_ard3ec.binl
+# - name: remastered/tw18.ard/SP_tw18_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw18.ard/SP_tw18_ard3f4.binl
+# - name: remastered/tw18.ard/SP_tw18_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw18.ard/SP_tw18_ard3ea.binl
+# - name: remastered/tw18.ard/SP_tw18_ard3ed.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw18.ard/SP_tw18_ard3ed.binl
+# - name: remastered/tw18.ard/SP_tw18_ard3f5.binl
+#   method: copy
+#   source:
+#   - name: remastered/tw18.ard/SP_tw18_ard3f5.binl
 - name: remastered/tw19.ard/SP_tw19_ard3e8.binl
   method: copy
   source:
@@ -918,6 +924,21 @@ assets:
   method: copy
   source:
   - name: remastered/tw26.ard/SP_tw26_ard3f5.binl
+
+#Subtitulos Villanos Disney y Fin del Mundo
+
+- name: remastered/pc17.ard/SP_pc17_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/pc17.ard/SP_pc17_ard3e8.binl
+- name: remastered/pc17.ard/SP_pc17_ard3ea.binl
+  method: copy
+  source:
+  - name: remastered/pc17.ard/SP_pc17_ard3ea.binl
+- name: remastered/pc17.ard/SP_pc17_ard3e9.binl
+  method: copy
+  source:
+  - name: remastered/pc17.ard/SP_pc17_ard3e9.binl
 - name: remastered/title/title.img/-168231.dds
   method: copy
   platform: pc
