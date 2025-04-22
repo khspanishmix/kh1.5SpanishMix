@@ -939,6 +939,1114 @@ assets:
   method: copy
   source:
   - name: remastered/pc17.ard/SP_pc17_ard3e9.binl
+
+#Subtitulos Pais de las Maravillas.
+
+- name: remastered/aw01.ard/SP_aw01_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw01.ard/SP_aw01_ard3e8.binl
+
+- name: remastered/aw01.ard/SP_aw01_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw01.ard/SP_aw01_ard3ea.binl
+
+- name: remastered/aw01.ard/SP_aw01_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw01.ard/SP_aw01_ard3f4.binl
+
+- name: remastered/aw01.ard/SP_aw01_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw01.ard/SP_aw01_ard3f5.binl
+
+- name: remastered/aw01.ard/SP_aw01_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw01.ard/SP_aw01_ard3f6.binl
+
+- name: remastered/aw01.ard/SP_aw01_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw01.ard/SP_aw01_ard3f8.binl
+
+- name: remastered/aw02.ard/SP_aw02_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw02.ard/SP_aw02_ard3e8.binl
+
+- name: remastered/aw02.ard/SP_aw02_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw02.ard/SP_aw02_ard3ea.binl
+
+- name: remastered/aw02.ard/SP_aw02_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw02.ard/SP_aw02_ard3f4.binl
+
+- name: remastered/aw02.ard/SP_aw02_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw02.ard/SP_aw02_ard3f5.binl
+
+- name: remastered/aw02.ard/SP_aw02_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw02.ard/SP_aw02_ard3f6.binl
+
+- name: remastered/aw02.ard/SP_aw02_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw02.ard/SP_aw02_ard3f8.binl
+
+- name: remastered/aw03.ard/SP_aw03_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw03.ard/SP_aw03_ard3e8.binl
+
+- name: remastered/aw03.ard/SP_aw03_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw03.ard/SP_aw03_ard3ea.binl
+
+- name: remastered/aw03.ard/SP_aw03_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw03.ard/SP_aw03_ard3f4.binl
+
+- name: remastered/aw03.ard/SP_aw03_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw03.ard/SP_aw03_ard3f5.binl
+
+- name: remastered/aw03.ard/SP_aw03_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw03.ard/SP_aw03_ard3f6.binl
+
+- name: remastered/aw03.ard/SP_aw03_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw03.ard/SP_aw03_ard3f8.binl
+
+- name: remastered/aw04.ard/SP_aw04_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw04.ard/SP_aw04_ard3e8.binl
+
+- name: remastered/aw04.ard/SP_aw04_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw04.ard/SP_aw04_ard3ea.binl
+
+- name: remastered/aw04.ard/SP_aw04_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw04.ard/SP_aw04_ard3f4.binl
+
+- name: remastered/aw04.ard/SP_aw04_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw04.ard/SP_aw04_ard3f5.binl
+
+- name: remastered/aw04.ard/SP_aw04_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw04.ard/SP_aw04_ard3f6.binl
+
+- name: remastered/aw04.ard/SP_aw04_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw04.ard/SP_aw04_ard3f8.binl
+
+- name: remastered/aw05.ard/SP_aw05_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw05.ard/SP_aw05_ard3e8.binl
+
+- name: remastered/aw05.ard/SP_aw05_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw05.ard/SP_aw05_ard3ea.binl
+
+- name: remastered/aw05.ard/SP_aw05_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw05.ard/SP_aw05_ard3f4.binl
+
+- name: remastered/aw05.ard/SP_aw05_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw05.ard/SP_aw05_ard3f5.binl
+
+- name: remastered/aw05.ard/SP_aw05_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw05.ard/SP_aw05_ard3f6.binl
+
+- name: remastered/aw05.ard/SP_aw05_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw05.ard/SP_aw05_ard3f8.binl
+
+- name: remastered/aw06.ard/SP_aw06_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw06.ard/SP_aw06_ard3e8.binl
+
+- name: remastered/aw06.ard/SP_aw06_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw06.ard/SP_aw06_ard3ea.binl
+
+- name: remastered/aw06.ard/SP_aw06_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw06.ard/SP_aw06_ard3f4.binl
+
+- name: remastered/aw06.ard/SP_aw06_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw06.ard/SP_aw06_ard3f5.binl
+
+- name: remastered/aw06.ard/SP_aw06_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw06.ard/SP_aw06_ard3f6.binl
+
+- name: remastered/aw06.ard/SP_aw06_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw06.ard/SP_aw06_ard3f8.binl
+
+- name: remastered/aw07.ard/SP_aw07_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw07.ard/SP_aw07_ard3e8.binl
+
+- name: remastered/aw07.ard/SP_aw07_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw07.ard/SP_aw07_ard3ea.binl
+
+- name: remastered/aw07.ard/SP_aw07_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw07.ard/SP_aw07_ard3f4.binl
+
+- name: remastered/aw07.ard/SP_aw07_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw07.ard/SP_aw07_ard3f5.binl
+
+- name: remastered/aw07.ard/SP_aw07_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw07.ard/SP_aw07_ard3f6.binl
+
+- name: remastered/aw07.ard/SP_aw07_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw07.ard/SP_aw07_ard3f8.binl
+
+- name: remastered/aw08.ard/SP_aw08_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw08.ard/SP_aw08_ard3e8.binl
+
+- name: remastered/aw08.ard/SP_aw08_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw08.ard/SP_aw08_ard3ea.binl
+
+- name: remastered/aw08.ard/SP_aw08_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw08.ard/SP_aw08_ard3f4.binl
+
+- name: remastered/aw08.ard/SP_aw08_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw08.ard/SP_aw08_ard3f5.binl
+
+- name: remastered/aw08.ard/SP_aw08_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw08.ard/SP_aw08_ard3f6.binl
+
+- name: remastered/aw08.ard/SP_aw08_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw08.ard/SP_aw08_ard3f8.binl
+
+- name: remastered/aw09.ard/SP_aw09_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw09.ard/SP_aw09_ard3e8.binl
+
+- name: remastered/aw09.ard/SP_aw09_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw09.ard/SP_aw09_ard3ea.binl
+
+- name: remastered/aw09.ard/SP_aw09_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw09.ard/SP_aw09_ard3f4.binl
+
+- name: remastered/aw09.ard/SP_aw09_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw09.ard/SP_aw09_ard3f5.binl
+
+- name: remastered/aw09.ard/SP_aw09_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw09.ard/SP_aw09_ard3f6.binl
+
+- name: remastered/aw09.ard/SP_aw09_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw09.ard/SP_aw09_ard3f8.binl
+
+- name: remastered/aw10.ard/SP_aw10_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/aw10.ard/SP_aw10_ard3e8.binl
+
+- name: remastered/aw10.ard/SP_aw10_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/aw10.ard/SP_aw10_ard3ea.binl
+
+- name: remastered/aw10.ard/SP_aw10_ard3f4.binl
+  method: copy
+  source:
+    - name: remastered/aw10.ard/SP_aw10_ard3f4.binl
+
+- name: remastered/aw10.ard/SP_aw10_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/aw10.ard/SP_aw10_ard3f5.binl
+
+- name: remastered/aw10.ard/SP_aw10_ard3f6.binl
+  method: copy
+  source:
+    - name: remastered/aw10.ard/SP_aw10_ard3f6.binl
+
+- name: remastered/aw10.ard/SP_aw10_ard3f8.binl
+  method: copy
+  source:
+    - name: remastered/aw10.ard/SP_aw10_ard3f8.binl
+
+#Subtitulos Tarzan
+
+- name: remastered/tz01.ard/SP_tz01_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3e8.binl
+
+- name: remastered/tz01.ard/SP_tz01_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3e9.binl
+
+- name: remastered/tz01.ard/SP_tz01_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3ea.binl
+
+- name: remastered/tz01.ard/SP_tz01_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3eb.binl
+
+- name: remastered/tz01.ard/SP_tz01_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3f5.binl
+
+- name: remastered/tz01.ard/SP_tz01_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3f7.binl
+
+- name: remastered/tz01.ard/SP_tz01_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3f9.binl
+
+- name: remastered/tz01.ard/SP_tz01_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz01.ard/SP_tz01_ard3fb.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3e8.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3e9.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3ea.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3eb.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3f5.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3f7.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3f9.binl
+
+- name: remastered/tz02.ard/SP_tz02_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz02.ard/SP_tz02_ard3fb.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3e8.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3e9.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3ea.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3eb.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3f5.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3f7.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3f9.binl
+
+- name: remastered/tz03.ard/SP_tz03_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz03.ard/SP_tz03_ard3fb.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3e8.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3e9.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3ea.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3eb.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3f5.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3f7.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3f9.binl
+
+- name: remastered/tz04.ard/SP_tz04_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz04.ard/SP_tz04_ard3fb.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3e8.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3e9.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3ea.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3eb.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3f5.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3f7.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3f9.binl
+
+- name: remastered/tz05.ard/SP_tz05_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz05.ard/SP_tz05_ard3fb.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3e8.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3e9.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3ea.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3eb.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3f5.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3f7.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3f9.binl
+
+- name: remastered/tz06.ard/SP_tz06_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz06.ard/SP_tz06_ard3fb.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3e8.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3e9.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3ea.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3eb.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3f5.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3f7.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3f9.binl
+
+- name: remastered/tz07.ard/SP_tz07_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz07.ard/SP_tz07_ard3fb.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3e8.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3e9.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3ea.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3eb.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3f5.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3f7.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3f9.binl
+
+- name: remastered/tz08.ard/SP_tz08_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz08.ard/SP_tz08_ard3fb.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3e8.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3e9.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3ea.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3eb.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3f5.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3f7.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3f9.binl
+
+- name: remastered/tz09.ard/SP_tz09_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz09.ard/SP_tz09_ard3fb.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3e8.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3e9.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3ea.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3eb.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3f5.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3f7.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3f9.binl
+
+- name: remastered/tz10.ard/SP_tz10_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz10.ard/SP_tz10_ard3fb.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3e8.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3e9.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3ea.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3eb.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3f5.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3f7.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3f9.binl
+
+- name: remastered/tz11.ard/SP_tz11_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz11.ard/SP_tz11_ard3fb.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3e8.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3e9.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3ea.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3eb.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3f5.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3f7.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3f9.binl
+
+- name: remastered/tz12.ard/SP_tz12_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz12.ard/SP_tz12_ard3fb.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3e8.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3e9.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3ea.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3eb.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3f5.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3f7.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3f9.binl
+
+- name: remastered/tz13.ard/SP_tz13_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz13.ard/SP_tz13_ard3fb.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3e8.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3e9.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3ea.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3eb.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3f5.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3f7.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3f9.binl
+
+- name: remastered/tz14.ard/SP_tz14_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz14.ard/SP_tz14_ard3fb.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3e8.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3e9.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3ea.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3eb.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3f5.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3f7.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3f9.binl
+
+- name: remastered/tz15.ard/SP_tz15_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz15.ard/SP_tz15_ard3fb.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3e8.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3e9.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3ea.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3eb.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3f5.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3f7.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3f9.binl
+
+- name: remastered/tz16.ard/SP_tz16_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz16.ard/SP_tz16_ard3fb.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3e8.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3e9.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3ea.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3eb.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3f5.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3f7.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3f9.binl
+
+- name: remastered/tz17.ard/SP_tz17_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz17.ard/SP_tz17_ard3fb.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3e8.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3e9.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3ea.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3eb.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3f5.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3f7.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3f9.binl
+
+- name: remastered/tz18.ard/SP_tz18_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz18.ard/SP_tz18_ard3fb.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3e8.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3e9.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3ea.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3eb.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3f5.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3f7.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3f9.binl
+
+- name: remastered/tz19.ard/SP_tz19_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz19.ard/SP_tz19_ard3fb.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3e8.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3e8.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3e9.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3e9.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3ea.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3ea.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3eb.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3eb.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3f5.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3f5.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3f7.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3f7.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3f9.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3f9.binl
+
+- name: remastered/tz20.ard/SP_tz20_ard3fb.binl
+  method: copy
+  source:
+    - name: remastered/tz20.ard/SP_tz20_ard3fb.binl
+
+  
+
+
 - name: remastered/title/title.img/-168231.dds
   method: copy
   platform: pc
