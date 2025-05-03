@@ -15,7 +15,7 @@
 ## Este mod incluye:
 **📜 Texturas traducidas al español.**
 
-**📜 Todas las voces dobladas al español:**
+**📜 Voces dobladas al español:**
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
@@ -31,9 +31,11 @@
 - 🕒 99% Monstruo.
 - 🕒 80% Ciudad de Halloween.
 - ✔️ 100% Atlántica.
-- 🕒 31% País de Nunca Jamás.
+- 🕒 44% País de Nunca Jamás.
 - 🕒 45% Bastión Hueco.
 - 🕒 56% Fin del Mundo.
+
+**📜 Subtitulos adaptados al doblaje: 🕒45%**
 
 ## ⚙️ Instrucciones de instalación
 ### OpenKH(método preferido):
