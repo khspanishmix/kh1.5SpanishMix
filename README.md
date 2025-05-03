@@ -149,6 +149,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 ### ©️ Copyright
 
 No tenemos ninguna afiliación con la marca Kingdom Hearts. Todos los derechos reservados a Disney y Square Enix.
+
 Asimismo, por respeto a los actores y actrices que forman parte de este proyecto, **queda terminantemente prohibido**:
 
 -🗣️**Subir a redes sociales vídeos dedicados a la comparación con otros actores/actrices que interpretan a X personaje, sea cual sea el idioma.**
