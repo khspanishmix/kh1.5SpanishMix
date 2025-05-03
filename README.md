@@ -135,7 +135,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Triton:** [Adri Rodríguez (adridibus)](https://www.instagram.com/adridibus_dub/)
 - **Tiger:** [Asancu](https://www.youtube.com/@Asancu)
 
-### Música
+### 🎶 Música
 
 - **Menu principal:** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
   
@@ -146,12 +146,13 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 - [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
 
-### Copyright
+### ©️ Copyright
 
 No tenemos ninguna afiliación con la marca Kingdom Hearts. Todos los derechos reservados a Disney y Square Enix.
 Asimismo, por respeto a los actores y actrices que forman parte de este proyecto, **queda terminantemente prohibido**:
 
--**Subir a redes sociales vídeos dedicados a la comparación con otros actores/actrices que interpretan a X personaje, sea cual sea el idioma.**
--**El entrenamiento de IA, o cualquier softaware de síntesis de voz, independientemente de su uso posterior.**
+-🗣️**Subir a redes sociales vídeos dedicados a la comparación con otros actores/actrices que interpretan a X personaje, sea cual sea el idioma.**
+
+-🤖**El entrenamiento de IA, o cualquier softaware de síntesis de voz, independientemente de su uso posterior.**
 
 ¡Gracias por su comprensión!
