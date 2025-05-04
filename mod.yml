@@ -11758,3 +11758,79 @@ assets:
   method: copy
   source:
   - name: remastered/tw18.ard/SP_tw18_ard3f5.binl
+- name: remastered/xa_pp_3000.mdls/ho00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00at00.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00at01.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00at02.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00at03.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00at04.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da00.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da01.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da02.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da03.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da04.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da05.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da06.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00da07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00da07.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00ex00.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00ex01.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00ex02.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00ex03.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00ex04.win32.scd
+- name: remastered/xa_pp_3000.mdls/ho00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pp_3000.mdls/ho00ex05.win32.scd
