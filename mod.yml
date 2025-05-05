@@ -1502,26 +1502,26 @@ assets:
   method: copy
   source:
   - name: remastered/tz20.ard/SP_tz20_ard3fb.binl
-- name: remastered/he01.ard/SP_he01_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3e8.binl
-- name: remastered/he01.ard/SP_he01_ard3e9.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3e9.binl
+# - name: remastered/he01.ard/SP_he01_ard3e8.binl
+#   method: copy
+#   source:
+# - name: remastered/he01.ard/SP_he01_ard3e8.binl
+# - name: remastered/he01.ard/SP_he01_ard3e9.binl
+#   method: copy
+#   source:
+#   - name: remastered/he01.ard/SP_he01_ard3e9.binl
 - name: remastered/he01.ard/SP_he01_ard3ea.binl
   method: copy
   source:
   - name: remastered/he01.ard/SP_he01_ard3ea.binl
-- name: remastered/he01.ard/SP_he01_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3eb.binl
-- name: remastered/he01.ard/SP_he01_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/he01.ard/SP_he01_ard3f4.binl
+# - name: remastered/he01.ard/SP_he01_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/he01.ard/SP_he01_ard3eb.binl
+# - name: remastered/he01.ard/SP_he01_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/he01.ard/SP_he01_ard3f4.binl
 - name: remastered/he02.ard/SP_he02_ard3e8.binl
   method: copy
   source:
@@ -1562,26 +1562,6 @@ assets:
   method: copy
   source:
   - name: remastered/he03.ard/SP_he03_ard3f4.binl
-- name: remastered/he04.ard/SP_he04_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/he04.ard/SP_he04_ard3e8.binl
-- name: remastered/he04.ard/SP_he04_ard3e9.binl
-  method: copy
-  source:
-  - name: remastered/he04.ard/SP_he04_ard3e9.binl
-- name: remastered/he04.ard/SP_he04_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/he04.ard/SP_he04_ard3ea.binl
-- name: remastered/he04.ard/SP_he04_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/he04.ard/SP_he04_ard3eb.binl
-- name: remastered/he04.ard/SP_he04_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/he04.ard/SP_he04_ard3f4.binl
 - name: remastered/he05.ard/SP_he05_ard3e8.binl
   method: copy
   source:
@@ -10050,46 +10030,6 @@ assets:
   method: copy
   source:
   - name: remastered/he01.ard/-9280.dds
-- name: remastered/he04.ard/-118c0.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-118c0.dds
-- name: remastered/he04.ard/-11d00.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-11d00.dds
-- name: remastered/he04.ard/-1a340.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-1a340.dds
-- name: remastered/he04.ard/-1a780.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-1a780.dds
-- name: remastered/he04.ard/-22dc0.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-22dc0.dds
-- name: remastered/he04.ard/-22dc1.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-22dc1.dds
-- name: remastered/he04.ard/-25680.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-25680.dds
-- name: remastered/he04.ard/-35680.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-35680.dds
-- name: remastered/he04.ard/-8e40.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-8e40.dds
-- name: remastered/he04.ard/-9280.dds
-  method: copy
-  source:
-  - name: remastered/he04.ard/-9280.dds
 - name: remastered/eveffect/aw/aw_001.dpx/-115a0.dds
   method: copy
   source:
@@ -11834,3 +11774,23 @@ assets:
   method: copy
   source:
   - name: remastered/xa_pp_3000.mdls/ho00ex05.win32.scd
+- name: remastered/he04.ard/SP_he04_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/he04.ard/SP_he04_ard3e8.binl
+- name: remastered/he04.ard/SP_he04_ard3e9.binl
+  method: copy
+  source:
+  - name: remastered/he04.ard/SP_he04_ard3e9.binl
+- name: remastered/he04.ard/SP_he04_ard3ea.binl
+  method: copy
+  source:
+  - name: remastered/he04.ard/SP_he04_ard3ea.binl
+- name: remastered/he04.ard/SP_he04_ard3eb.binl
+  method: copy
+  source:
+  - name: remastered/he04.ard/SP_he04_ard3eb.binl
+- name: remastered/he04.ard/SP_he04_ard3f4.binl
+  method: copy
+  source:
+  - name: remastered/he04.ard/SP_he04_ard3f4.binl
