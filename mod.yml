@@ -1582,26 +1582,26 @@ assets:
   method: copy
   source:
   - name: remastered/he05.ard/SP_he05_ard3f4.binl
-- name: remastered/he06.ard/SP_he06_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3e8.binl
-- name: remastered/he06.ard/SP_he06_ard3e9.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3e9.binl
-- name: remastered/he06.ard/SP_he06_ard3ea.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3ea.binl
-- name: remastered/he06.ard/SP_he06_ard3eb.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3eb.binl
-- name: remastered/he06.ard/SP_he06_ard3f4.binl
-  method: copy
-  source:
-  - name: remastered/he06.ard/SP_he06_ard3f4.binl
+# - name: remastered/he06.ard/SP_he06_ard3e8.binl
+#   method: copy
+#   source:
+#   - name: remastered/he06.ard/SP_he06_ard3e8.binl
+# - name: remastered/he06.ard/SP_he06_ard3e9.binl
+#   method: copy
+#   source:
+#   - name: remastered/he06.ard/SP_he06_ard3e9.binl
+# - name: remastered/he06.ard/SP_he06_ard3ea.binl
+#   method: copy
+#   source:
+#   - name: remastered/he06.ard/SP_he06_ard3ea.binl
+# - name: remastered/he06.ard/SP_he06_ard3eb.binl
+#   method: copy
+#   source:
+#   - name: remastered/he06.ard/SP_he06_ard3eb.binl
+# - name: remastered/he06.ard/SP_he06_ard3f4.binl
+#   method: copy
+#   source:
+#   - name: remastered/he06.ard/SP_he06_ard3f4.binl
 - name: remastered/he07.ard/SP_he07_ard3e8.binl
   method: copy
   source:
