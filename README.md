@@ -31,7 +31,7 @@
 - 🕒 99% Monstruo.
 - 🕒 80% Ciudad de Halloween.
 - ✔️ 100% Atlántica.
-- 🕒 44% País de Nunca Jamás.
+- 🕒 55% País de Nunca Jamás.
 - 🕒 45% Bastión Hueco.
 - 🕒 56% Fin del Mundo.
 
@@ -77,14 +77,13 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ### 🎬​ Dirección | Programación | Edición
 
-- **Dirección:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
-- **Programación:** [Yokimitsuro](https://x.com/Yokimitsuro)
-- **Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
+- **Dirección, Edición y Programación:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
+- **Ayudante de Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
 
 ### 🎨 Arte
-- **Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
+- **Edición de Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
 
-### Redes sociales
+### Mantenimiento de Redes sociales
 -Twitter: [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
 
 -Instagram y Youtube: [AilnnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
@@ -137,12 +136,13 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ### 🎶 Música
 
-- **Menu principal:** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
+- **Menu principal (Dearly Beloved):** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
   
 - **Simple and Clean (Cover en Castellano):** [Marta Delgado Larios](https://www.youtube.com/@martadubs)
+- **Letra:** Charm (si alguien conoce sus redes sociales, que me lo diga, por favor)
 - **Mezcla y Mastering:** [OCOA](https://www.instagram.com/ocoa.music/)
 
-### Otras aportaciones
+### Vídeos RRSS
 
 - [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
 
