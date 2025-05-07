@@ -19,7 +19,7 @@
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
-- 🕒 69% Batallas.
+- 🕒 76% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
 - 🕒 99% Ciudad de Paso.
@@ -29,9 +29,9 @@
 - 🕒 50% Bosque de los 100 Acres.
 - ✔️ 100% Agrabah.
 - 🕒 99% Monstruo.
-- 🕒 80% Ciudad de Halloween.
+- 🕒 81% Ciudad de Halloween.
 - ✔️ 100% Atlántica.
-- 🕒 55% País de Nunca Jamás.
+- 🕒 67% País de Nunca Jamás.
 - 🕒 45% Bastión Hueco.
 - 🕒 56% Fin del Mundo.
 
